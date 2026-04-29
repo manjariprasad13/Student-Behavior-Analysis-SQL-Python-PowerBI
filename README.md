@@ -30,17 +30,19 @@ Note: Due to GitHub file size limitations, the full dataset is not uploaded. A s
 - Balanced usage shows better student engagement
   
 ## Dashboard Preview
+### Raw Data
+![Raw Data](raw_data.png)
 
 ### Overview Dashboard
 ![Dashboard](dashboard.png)
 
-### 🔹 Mental Health Analysis
+### Mental Health Analysis
 ![Mental Health](mental_health.png)
 
-### 🔹 Cyberbullying Exposure
+### Cyberbullying Exposure
 ![Cyberbullying](cyberbullying_exposure.png)
 
-### 🔹 Engagement Analysis
+### Engagement Analysis
 ![Engagement](engagement_time.png)
 
 ## Power BI Dashboard

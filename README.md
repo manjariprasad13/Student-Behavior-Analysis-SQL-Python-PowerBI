@@ -5,7 +5,7 @@ This project analyzes the impact of social media usage on student behavior, ment
 
 ## Tools & Technologies
 - SQL – Data cleaning and querying  
-- Python (Pandas, NumPy) – Data preprocessing and analysis  
+- Python (Pandas, NumPy, Seaborn) – Data preprocessing and analysis and few visualizations
 - Power BI – Data visualization and dashboard creation  
 
 ## Dataset
